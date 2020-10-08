@@ -1,2 +1,2 @@
-def singleNumber(self, nums: List[int]) -> int:
-        return 2 * sum(set(nums)) - sum(nums)
+def singleNumber(self, bro: List[int]) -> int:
+        return 2 * sum(set(bro)) - sum(bro)
